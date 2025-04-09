@@ -9,4 +9,5 @@ The software is characterized by the so-called drag&drop interface by which bloc
 ![mimSim Simulation Software screenshot](https://github.com/user-attachments/assets/d874068a-c851-460f-bd7b-92addb8619e7)
 
 Licence: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 Copyright © 2024-2025 Marko Đogatović, mimsimsoft@gmail.com. All rights reserved.

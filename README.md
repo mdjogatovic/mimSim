@@ -10,4 +10,4 @@ The software is characterized by the so-called drag&drop interface by which bloc
 
 Licence: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-Copyright © 2024-2025 Marko Đogatović, mimsimsoft@gmail.com. All rights reserved.
+Copyright © 2024-2025 Marko Đogatović, mimsimsoft at gmail.com. All rights reserved.

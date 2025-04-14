@@ -1,4 +1,4 @@
-# mimSim Simulation Software (2024.11-1) 🚀
+# mimSim Simulation Software (2024.11-1) 🕜 📈
 
 __mimSim Simulation Software (2024.11-1)__ is a graphical application software designed for creating and simulating models of discrete events systems. The script language of the software is the Python programming language, and the software itself is developed in the Python programming language.
 

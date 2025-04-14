@@ -14,7 +14,7 @@ The software is characterized by the so-called drag&drop interface by which bloc
 
 In the mimSim simulation software, there are two types of reports and one output. The first report shows the simulation results and can be generated and displayed after completing a simulation experiment (Figure 2). The second report can be generated at any point in time, and its purpose is to provide a detailed and clear description of the model. The output is used to show intermediate results and messages during the execution of the simulation model.
 
-## Screenshot
+## Screenshots
 
 ![mimSim Simulation Software screenshot](https://github.com/user-attachments/assets/d874068a-c851-460f-bd7b-92addb8619e7)
 

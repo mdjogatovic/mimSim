@@ -10,9 +10,13 @@ The model consists of blocks that are interconnected by connections. The connect
 
 The software is characterized by the so-called drag&drop interface by which blocks and objects, which are on the palette (Figure 1), are dragged onto the model sheet. After dragging, blocks and objects can be arranged on the model list as desired. Also, by clicking on the input or output port of the block and dragging it is possible to connect two different blocks. The model sheet is of infinite size and can be moved, enlarged and reduced as desired. Blocks and objects of the model can be selected, their properties can be changed, deleted and copied.
 
-![mimSim Simulation Software screenshot](https://github.com/user-attachments/assets/d874068a-c851-460f-bd7b-92addb8619e7)
+## Reports
 
 In the mimSim simulation software, there are two types of reports and one output. The first report shows the simulation results and can be generated and displayed after completing a simulation experiment (Figure 2). The second report can be generated at any point in time, and its purpose is to provide a detailed and clear description of the model. The output is used to show intermediate results and messages during the execution of the simulation model.
+
+## Screenshot
+
+![mimSim Simulation Software screenshot](https://github.com/user-attachments/assets/d874068a-c851-460f-bd7b-92addb8619e7)
 
 ![mimSim Simulation Software report screenshot](https://github.com/user-attachments/assets/2129f330-ecca-47ba-84cb-ef0832a4a214)
 

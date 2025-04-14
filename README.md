@@ -8,7 +8,7 @@ The model consists of blocks that are interconnected by connections. The connect
 
 ## 🧾 Features
 
-The software is characterized by the so-called drag&drop interface by which blocks and objects, which are on the palette (Figure 1), are dragged onto the model canvas. After dragging, blocks and objects can be arranged on the model list as desired. Also, by clicking on the input or output port of the block and dragging it is possible to connect two different blocks. The model canvas is of infinite size and can be moved, zoomed and unzoomed as desired. Blocks and objects of the model can be selected, their properties can be changed, deleted and copied.
+The software is characterized by the so-called drag&drop interface by which blocks and objects, which are on the palette (Figure 1), are dragged onto the model canvas. After dragging, blocks and objects can be arranged on the model list as desired. Also, by clicking on the input or output port of the block and dragging it is possible to connect two different blocks. The model canvas is of infinite size and can be paned, zoomed and unzoomed as desired. Blocks and objects of the model can be selected deleted and copied, and their properties can be changed.
 
 ## 📈 Reports
 
